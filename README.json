@@ -172,7 +172,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-02-04T17:41:14Z",
+            "last_commit": "2026-02-08T01:08:30Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1315
@@ -753,7 +753,7 @@
             "last_commit": "2026-01-28T17:36:49Z",
             "owner": "Inochi2D",
             "repo": "nulib",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-02-07T06:18:01Z",
+            "last_commit": "2026-02-07T20:39:52Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 19
@@ -898,7 +898,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-02-06T22:37:51Z",
+            "last_commit": "2026-02-07T23:48:10Z",
             "owner": "adamdruppe",
             "repo": "arsd",
             "stars": 549
@@ -1000,7 +1000,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-02-06T22:37:51Z",
+            "last_commit": "2026-02-07T23:48:10Z",
             "owner": "adamdruppe",
             "repo": "arsd",
             "stars": 549
@@ -1131,7 +1131,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 896
+            "stars": 897
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "last_commit": "2026-02-05T10:20:14Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12049
+            "stars": 12052
           }
         },
         {
@@ -1183,7 +1183,7 @@
             "last_commit": "2026-01-31T14:08:18Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
-            "stars": 39
+            "stars": 40
           }
         }
       ],
@@ -1217,7 +1217,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-02-06T22:37:51Z",
+            "last_commit": "2026-02-07T23:48:10Z",
             "owner": "adamdruppe",
             "repo": "arsd",
             "stars": 549
@@ -1343,7 +1343,7 @@
             "last_commit": "2025-11-08T18:18:23Z",
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 374
+            "stars": 375
           }
         }
       ],
@@ -2036,7 +2036,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-02-06T22:37:51Z",
+            "last_commit": "2026-02-07T23:48:10Z",
             "owner": "adamdruppe",
             "repo": "arsd",
             "stars": 549
@@ -2633,10 +2633,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-02-07T07:04:26.025Z",
+    "last_updated": "2026-02-08T04:26:30.527Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
-    "source_repository_description": "",
+    "source_repository_description": null,
     "title": "Awesome D with stars"
   }
 }
