@@ -159,7 +159,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-08T01:31:04Z",
+            "last_commit": "2026-05-09T05:04:09Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3263
@@ -239,7 +239,7 @@
             "last_commit": "2026-04-06T03:54:07Z",
             "owner": "dlang",
             "repo": "dub",
-            "stars": 719
+            "stars": 720
           }
         },
         {
@@ -410,7 +410,7 @@
             "last_commit": "2025-12-26T21:22:21Z",
             "owner": "dlang-community",
             "repo": "DCD",
-            "stars": 360
+            "stars": 361
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-05-02T21:44:10Z",
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 259
+            "stars": 260
           }
         }
       ],
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-02T21:22:02Z",
+            "last_commit": "2026-05-08T16:30:10Z",
             "owner": "WebFreak001",
             "repo": "dub-upgrade",
             "stars": 1
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-06T11:26:26Z",
+            "last_commit": "2026-05-08T20:40:04Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 24
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-04T11:30:41Z",
+            "last_commit": "2026-05-08T12:42:18Z",
             "owner": "atilaneves",
             "repo": "cerealed",
             "stars": 92
@@ -888,7 +888,7 @@
             "last_commit": "2026-04-08T16:37:43Z",
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1201
+            "stars": 1202
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 906
+            "stars": 905
           }
         },
         {
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-08T04:18:27Z",
+            "last_commit": "2026-05-08T20:29:54Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12402
+            "stars": 12407
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5674
+            "stars": 5676
           }
         },
         {
@@ -2010,7 +2010,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-06T14:55:35Z",
+            "last_commit": "2026-05-08T17:18:24Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 177
@@ -2258,7 +2258,7 @@
             "last_commit": "2022-09-14T17:43:16Z",
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1477
+            "stars": 1478
           }
         }
       ],
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:48:13.061Z",
+    "last_updated": "2026-05-09T05:14:49.241Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
