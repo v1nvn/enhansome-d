@@ -239,7 +239,7 @@
             "last_commit": "2026-04-06T03:54:07Z",
             "owner": "dlang",
             "repo": "dub",
-            "stars": 720
+            "stars": 721
           }
         },
         {
@@ -439,7 +439,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-04-09T18:01:39Z",
+            "last_commit": "2026-05-10T16:14:14Z",
             "owner": "dlang-community",
             "repo": "libdparse",
             "stars": 121
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-10T05:19:45Z",
+            "last_commit": "2026-05-10T19:40:01Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12411
+            "stars": 12412
           }
         },
         {
@@ -1180,7 +1180,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-09T14:01:25Z",
+            "last_commit": "2026-05-10T18:04:33Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 40
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5676
+            "stars": 5677
           }
         },
         {
@@ -2010,7 +2010,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-09T17:43:29Z",
+            "last_commit": "2026-05-11T00:48:00Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 177
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:30:05.977Z",
+    "last_updated": "2026-05-11T05:50:52.456Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
