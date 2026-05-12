@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-10T01:30:59Z",
+            "last_commit": "2026-05-12T00:22:28Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3262
+            "stars": 3263
           }
         },
         {
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-08T20:40:04Z",
+            "last_commit": "2026-05-11T22:58:39Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 25
@@ -901,7 +901,7 @@
             "last_commit": "2026-05-02T00:30:57Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -1003,7 +1003,7 @@
             "last_commit": "2026-05-02T00:30:57Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -1141,7 +1141,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-10T19:40:01Z",
+            "last_commit": "2026-05-11T20:18:17Z",
             "owner": "abraunegg",
             "repo": "onedrive",
             "stars": 12412
@@ -1220,7 +1220,7 @@
             "last_commit": "2026-05-02T00:30:57Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5677
+            "stars": 5679
           }
         },
         {
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-09T16:32:31Z",
+            "last_commit": "2026-05-11T13:24:48Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 26
@@ -2010,7 +2010,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-11T00:48:00Z",
+            "last_commit": "2026-05-11T13:31:22Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 177
@@ -2039,7 +2039,7 @@
             "last_commit": "2026-05-02T00:30:57Z",
             "owner": "adamdruppe",
             "repo": "arsd",
-            "stars": 549
+            "stars": 550
           }
         },
         {
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-11T05:50:52.456Z",
+    "last_updated": "2026-05-12T05:31:05.997Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
