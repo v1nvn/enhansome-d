@@ -66,7 +66,7 @@
             "last_commit": "2024-06-11T20:04:21Z",
             "owner": "atilaneves",
             "repo": "dpp",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2021-09-21T11:50:40Z",
             "owner": "PhilippeSigaud",
             "repo": "D-templates-tutorial",
-            "stars": 232
+            "stars": 233
           }
         },
         {
@@ -159,7 +159,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-12T00:22:28Z",
+            "last_commit": "2026-05-12T14:07:16Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3263
@@ -541,7 +541,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-04-19T11:34:10Z",
+            "last_commit": "2026-05-12T21:11:55Z",
             "owner": "kassane",
             "repo": "ldcup",
             "stars": 2
@@ -750,7 +750,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-01-28T17:36:49Z",
+            "last_commit": "2026-05-12T12:39:19Z",
             "owner": "Inochi2D",
             "repo": "nulib",
             "stars": 10
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-11T22:58:39Z",
+            "last_commit": "2026-05-12T22:33:22Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 25
@@ -888,7 +888,7 @@
             "last_commit": "2026-04-08T16:37:43Z",
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1202
+            "stars": 1203
           }
         },
         {
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-11T20:18:17Z",
+            "last_commit": "2026-05-13T00:04:32Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12412
+            "stars": 12421
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5679
+            "stars": 5682
           }
         },
         {
@@ -1362,7 +1362,7 @@
             "last_commit": "2026-04-27T12:47:07Z",
             "owner": "schveiguy",
             "repo": "raylib-d",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -2010,7 +2010,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-11T13:31:22Z",
+            "last_commit": "2026-05-12T12:16:24Z",
             "owner": "CyberShadow",
             "repo": "ae",
             "stars": 177
@@ -2071,7 +2071,7 @@
             "last_commit": "2024-05-02T18:52:43Z",
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1296
+            "stars": 1295
           }
         },
         {
@@ -2126,10 +2126,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-06T09:20:02Z",
+            "last_commit": "2026-05-12T09:38:51Z",
             "owner": "libmir",
             "repo": "dcompute",
-            "stars": 141
+            "stars": 142
           }
         },
         {
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-12T05:31:05.997Z",
+    "last_updated": "2026-05-13T05:41:00.531Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
