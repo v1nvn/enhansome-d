@@ -159,7 +159,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-12T14:07:16Z",
+            "last_commit": "2026-05-14T05:25:22Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3263
@@ -682,7 +682,7 @@
             "last_commit": "2023-11-15T12:40:13Z",
             "owner": "dlang-community",
             "repo": "containers",
-            "stars": 111
+            "stars": 112
           }
         },
         {
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-12T22:33:22Z",
+            "last_commit": "2026-05-14T05:18:12Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 25
@@ -1131,7 +1131,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 905
+            "stars": 903
           }
         },
         {
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-13T00:04:32Z",
+            "last_commit": "2026-05-14T01:27:37Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12421
+            "stars": 12425
           }
         },
         {
@@ -1180,7 +1180,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-10T18:04:33Z",
+            "last_commit": "2026-05-14T01:26:37Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 40
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5682
+            "stars": 5683
           }
         },
         {
@@ -2071,7 +2071,7 @@
             "last_commit": "2024-05-02T18:52:43Z",
             "owner": "Netflix",
             "repo": "vectorflow",
-            "stars": 1295
+            "stars": 1294
           }
         },
         {
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:41:00.531Z",
+    "last_updated": "2026-05-14T05:40:23.405Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
