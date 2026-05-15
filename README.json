@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-14T05:25:22Z",
+            "last_commit": "2026-05-15T04:04:46Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3263
+            "stars": 3264
           }
         },
         {
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-14T05:18:12Z",
+            "last_commit": "2026-05-15T04:47:38Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 25
@@ -853,7 +853,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-09T08:48:40Z",
+            "last_commit": "2026-05-14T11:03:06Z",
             "owner": "atilaneves",
             "repo": "cerealed",
             "stars": 92
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-14T01:27:37Z",
+            "last_commit": "2026-05-15T05:01:43Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12425
+            "stars": 12432
           }
         },
         {
@@ -1180,7 +1180,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-14T01:26:37Z",
+            "last_commit": "2026-05-14T14:44:08Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 40
@@ -1233,7 +1233,7 @@
             "last_commit": "2026-04-05T09:15:27Z",
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 859
+            "stars": 860
           }
         },
         {
@@ -1343,7 +1343,7 @@
             "last_commit": "2025-11-08T18:18:23Z",
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 383
+            "stars": 384
           }
         }
       ],
@@ -2258,7 +2258,7 @@
             "last_commit": "2022-09-14T17:43:16Z",
             "owner": "eBay",
             "repo": "tsv-utils",
-            "stars": 1478
+            "stars": 1479
           }
         }
       ],
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:40:23.405Z",
+    "last_updated": "2026-05-15T05:46:36.391Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
