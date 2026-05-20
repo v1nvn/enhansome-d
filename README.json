@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-18T17:50:46Z",
+            "last_commit": "2026-05-19T23:50:42Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3268
+            "stars": 3270
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-04-06T03:54:07Z",
             "owner": "dlang",
             "repo": "dub",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-01-15T09:52:10Z",
+            "last_commit": "2026-05-19T07:53:05Z",
             "owner": "atilaneves",
             "repo": "reggae",
             "stars": 187
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-17T10:02:27Z",
+            "last_commit": "2026-05-20T00:49:08Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 25
@@ -1016,7 +1016,7 @@
             "last_commit": "2024-08-21T09:19:36Z",
             "owner": "robik",
             "repo": "commandr",
-            "stars": 45
+            "stars": 46
           }
         },
         {
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-18T21:03:18Z",
+            "last_commit": "2026-05-19T19:53:41Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12440
+            "stars": 12444
           }
         },
         {
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-18T18:18:55Z",
+            "last_commit": "2026-05-19T15:04:21Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 26
@@ -1961,7 +1961,7 @@
             "last_commit": "2025-09-08T14:27:44Z",
             "owner": "gecko0307",
             "repo": "electronvolt",
-            "stars": 115
+            "stars": 114
           }
         },
         {
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T05:58:13.629Z",
+    "last_updated": "2026-05-20T05:57:37.165Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
