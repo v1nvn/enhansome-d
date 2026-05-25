@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-23T15:37:35Z",
+            "last_commit": "2026-05-25T06:08:10Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3272
+            "stars": 3271
           }
         },
         {
@@ -172,10 +172,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-06T09:23:15Z",
+            "last_commit": "2026-05-24T08:04:22Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1332
+            "stars": 1333
           }
         },
         {
@@ -239,7 +239,7 @@
             "last_commit": "2026-04-06T03:54:07Z",
             "owner": "dlang",
             "repo": "dub",
-            "stars": 723
+            "stars": 722
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 903
+            "stars": 904
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "last_commit": "2026-05-19T19:53:41Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12458
+            "stars": 12457
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1143
+            "stars": 1144
           }
         },
         {
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-21T16:14:41Z",
+            "last_commit": "2026-05-24T17:35:04Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 26
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-24T05:53:46.676Z",
+    "last_updated": "2026-05-25T06:16:55.466Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
