@@ -162,7 +162,7 @@
             "last_commit": "2026-05-26T05:16:40Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3273
+            "stars": 3274
           }
         },
         {
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-21T16:06:49Z",
+            "last_commit": "2026-05-26T08:31:11Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 25
@@ -1144,7 +1144,7 @@
             "last_commit": "2026-05-19T19:53:41Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12458
+            "stars": 12461
           }
         },
         {
@@ -1183,7 +1183,7 @@
             "last_commit": "2026-05-25T14:47:29Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
-            "stars": 41
+            "stars": 42
           }
         }
       ],
@@ -1199,7 +1199,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-26T02:42:55Z",
+            "last_commit": "2026-05-26T07:35:35Z",
             "owner": "Kymorphia",
             "repo": "gid",
             "stars": 38
@@ -1233,7 +1233,7 @@
             "last_commit": "2026-04-05T09:15:27Z",
             "owner": "buggins",
             "repo": "dlangui",
-            "stars": 861
+            "stars": 862
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5684
+            "stars": 5686
           }
         },
         {
@@ -1343,7 +1343,7 @@
             "last_commit": "2025-11-08T18:18:23Z",
             "owner": "Inochi2D",
             "repo": "inochi-session",
-            "stars": 387
+            "stars": 386
           }
         }
       ],
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-25T09:21:03Z",
+            "last_commit": "2026-05-26T15:52:56Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 26
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-26T05:58:35.519Z",
+    "last_updated": "2026-05-27T06:08:47.941Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
