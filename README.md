@@ -1,6 +1,6 @@
-# Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 470,982 | 🐛 79 | 📅 2026-05-05 with stars
+# Awesome D [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 471,267 | 🐛 79 | 📅 2026-05-05 with stars
 
-A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 300,126 | 🐛 22 | 🌐 Python | 📅 2026-05-29.
+A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python](https://github.com/vinta/awesome-python) ⭐ 300,282 | 🐛 19 | 🌐 Python | 📅 2026-05-29.
 
 Most documents and links are collected from the [D forum](https://forum.dlang.org), the [D wiki](https://wiki.dlang.org), and the [D package repository](https://code.dlang.org). Exploring GitHub is also helpful, as many libraries are hosted there. If you know of an interesting D project, please let us know via [GitHub issues](https://github.com/dlang-community/awesome-d/issues) ⭐ 751 | 🐛 3 | 🌐 D | 📅 2026-05-02 or by [editing this file](https://github.com/dlang-community/awesome-d/edit/master/README.md) ⭐ 751 | 🐛 3 | 🌐 D | 📅 2026-05-02.
 
@@ -182,7 +182,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Official compilers for the D language.*
 
-* [DMD](https://github.com/dlang/dmd) ⭐ 3,276 | 🐛 3,819 | 🌐 D | 📅 2026-05-28 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [DMD](https://github.com/dlang/dmd) ⭐ 3,276 | 🐛 3,819 | 🌐 D | 📅 2026-05-30 - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
 * [LDC](https://github.com/ldc-developers/ldc) ⭐ 1,334 | 🐛 584 | 🌐 D | 📅 2026-05-24 - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
 * [GDC](https://github.com/D-Programming-GDC/GDC) ⚠️ Archived - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 
@@ -206,7 +206,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [dub](https://github.com/dlang/dub) ⭐ 722 | 🐛 531 | 🌐 D | 📅 2026-04-06 - De facto official package and build management system for D. Will be included officially soon.
 * [reggae](https://github.com/atilaneves/reggae) ⭐ 187 | 🐛 33 | 🌐 D | 📅 2026-05-19 - meta build system in D
-* [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 66 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
+* [cmake-d](https://github.com/dcarp/cmake-d) ⭐ 65 | 🐛 4 | 🌐 CMake | 📅 2023-06-09 - CMake D Projects
 * [cook2](https://github.com/gecko0307/Cook2) ⚠️ Archived - Fast incremental build tool intended for projects in D
 * [Makefile](https://github.com/bioinfornatics/MakefileForD) ⭐ 20 | 🐛 0 | 🌐 CSS | 📅 2016-04-19 - Makefile template for D projects
 * [wild](https://github.com/Vild/Wild) ⭐ 6 | 🐛 2 | 🌐 D | 📅 2016-08-14 - Wild build system, used to build the [PowerNex](https://github.com/PowerNex/PowerNex) ⭐ 505 | 🐛 14 | 🌐 D | 📅 2019-03-02 kernel
@@ -220,9 +220,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Integrated Development Environment.*
 
-* [DCD](https://github.com/dlang-community/DCD) ⭐ 361 | 🐛 64 | 🌐 D | 📅 2025-12-26 - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support) ⭐ 361 | 🐛 64 | 🌐 D | 📅 2025-12-26.
+* [DCD](https://github.com/dlang-community/DCD) ⭐ 360 | 🐛 64 | 🌐 D | 📅 2025-12-26 - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support) ⭐ 360 | 🐛 64 | 🌐 D | 📅 2025-12-26.
 * [Visual D](https://github.com/dlang/visuald) ⭐ 304 | 🐛 44 | 🌐 D | 📅 2026-04-27 - Visual Studio extension for the D programming language.
-* [serve-d](https://github.com/Pure-D/serve-d) ⭐ 260 | 🐛 156 | 🌐 D | 📅 2026-05-02 - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
+* [serve-d](https://github.com/Pure-D/serve-d) ⭐ 259 | 🐛 156 | 🌐 D | 📅 2026-05-02 - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 * [Dutyl](https://github.com/idanarye/vim-dutyl) ⭐ 79 | 🐛 10 | 🌐 Vim script | 📅 2020-04-02 - Vim plugin that integrates various D development tools
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
@@ -295,7 +295,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *General-purpose utility libraries.*
 
 * [NuMem](https://github.com/Inochi2D/numem) ⭐ 34 | 🐛 0 | 🌐 D | 📅 2026-03-29 - No-GC memory management utilities for DLang.
-* [Joka](https://github.com/Kapendev/joka) ⭐ 25 | 🐛 0 | 🌐 D | 📅 2026-05-29 - A nogc utility library.
+* [Joka](https://github.com/Kapendev/joka) ⭐ 26 | 🐛 0 | 🌐 D | 📅 2026-05-29 - A nogc utility library.
 * [NuLib](https://github.com/Inochi2D/nulib) ⭐ 10 | 🐛 0 | 🌐 D | 📅 2026-05-28 - D "standard" library built ontop of numem.
 
 ## Web Frameworks
@@ -310,7 +310,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Full stack web frameworks.*
 
-* [arsd](https://github.com/adamdruppe/arsd) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 - Adam D. Ruppe's web framework.
+* [arsd](https://github.com/adamdruppe/arsd) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 - Adam D. Ruppe's web framework.
 * [cmsed](https://github.com/rikkimax/Cmsed) ⭐ 18 | 🐛 0 | 🌐 D | 📅 2015-01-23 - A component library for Vibe that functions as a CMS.
 * [vibe.d](https://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 
@@ -341,7 +341,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *XML libraries.*
 
-* arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 - an xml/html DOM based on what Javascript provides in browsers
+* arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 - an xml/html DOM based on what Javascript provides in browsers
 * [orange](https://github.com/jacob-carlborg/orange) ⭐ 72 | 🐛 19 | 🌐 D | 📅 2020-03-21 - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) ⭐ 20 | 🐛 19 | 🌐 D | 📅 2017-07-27 - Phobos candidate for a XML serialization
 * [newxml](https://github.com/ZILtoid1991/newxml) ⚠️ Archived - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
@@ -351,7 +351,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Clients and bindings to C clients for relational and nosql databases.*
 
 * [vibe.d](https://github.com/vibe-d/vibe.d) ⭐ 1,204 | 🐛 451 | 🌐 D | 📅 2026-04-08 - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
-* [arsd](https://github.com/adamdruppe/arsd) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+* [arsd](https://github.com/adamdruppe/arsd) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [hibernated](https://github.com/buggins/hibernated) ⭐ 84 | 🐛 21 | 🌐 D | 📅 2024-12-22 - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 * [mysql-native](https://github.com/mysql-d/mysql-native) ⭐ 80 | 🐛 41 | 🌐 D | 📅 2024-01-10 - A MySQL client implemented in native D.
 * [ddbc](https://github.com/buggins/ddbc) ⭐ 80 | 🐛 15 | 🌐 D | 📅 2025-08-26 - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
@@ -363,8 +363,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## CLI Libraries
 
 * [d-colorize](https://code.dlang.org/packages/colorize) - A port of the ruby library [colorize](https://github.com/fazibear/colorize) ⭐ 1,283 | 🐛 5 | 🌐 Ruby | 📅 2024-05-21. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
-* [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 - Part of Adam Ruppe's [arsd](https://github.com/adamdruppe/arsd) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 library supporting cursor and color manipulation on the console.
-* [scriptlike](https://github.com/Abscissa/scriptlike) ⭐ 94 | 🐛 16 | 🌐 D | 📅 2021-03-10 - Utility library to aid writing script-like programs in D.
+* [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 - Part of Adam Ruppe's [arsd](https://github.com/adamdruppe/arsd) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 library supporting cursor and color manipulation on the console.
+* [scriptlike](https://github.com/Abscissa/scriptlike) ⭐ 92 | 🐛 16 | 🌐 D | 📅 2021-03-10 - Utility library to aid writing script-like programs in D.
 * [luneta](https://github.com/fbeline/luneta) ⭐ 63 | 🐛 0 | 🌐 D | 📅 2023-08-14 - A command-line fuzzy finder.
 * [commandr](https://github.com/robik/commandr) ⭐ 45 | 🐛 3 | 🌐 D | 📅 2024-08-21 - A modern, powerful command line argument parser.
 * [argsd](https://github.com/burner/argsd) ⭐ 18 | 🐛 0 | 🌐 D | 📅 2025-11-21 - A command line and config file parser for DLang
@@ -375,31 +375,31 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## CLI Applications
 
-* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,467 | 🐛 12 | 🌐 D | 📅 2026-05-28 - #1 Free OneDrive Client for Linux.
+* [onedrive](https://github.com/abraunegg/onedrive) ⭐ 12,475 | 🐛 15 | 🌐 D | 📅 2026-05-30 - #1 Free OneDrive Client for Linux.
 * [Literate](https://github.com/zyedidia/Literate) ⭐ 904 | 🐛 36 | 🌐 D | 📅 2022-07-10 - A literate programming tool for any language.
 * [tshare](https://github.com/trikko/tshare) ⭐ 140 | 🐛 0 | 🌐 D | 📅 2023-12-13 - Fast file sharing from cli, using transfer.sh.
 * [Soulfind](https://github.com/soulfind-dev/soulfind) ⭐ 42 | 🐛 11 | 🌐 D | 📅 2026-05-28 - Soulseek server implementation in D.
-* [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,292 | 🐛 150 | 🌐 C | 📅 2026-05-02.
+* [todod](https://github.com/BlackEdder/todod) ⭐ 17 | 🐛 2 | 🌐 D | 📅 2017-03-22 - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise) ⭐ 4,293 | 🐛 150 | 🌐 C | 📅 2026-05-02.
 
 ## GUI Libraries
 
 *Libraries for working with graphical user interface applications.*
 
 * [DLangUI](https://github.com/buggins/dlangui) ⭐ 862 | 🐛 99 | 🌐 D | 📅 2026-04-05 - Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide) ⭐ 489 | 🐛 126 | 🌐 D | 📅 2024-03-12.
-* [minigui](https://arsd-official.dpldocs.info/arsd.minigui.html) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components. It's part of the [arsd libraries](https://github.com/adamdruppe/arsd/blob/master/minigui.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28.
+* [minigui](https://arsd-official.dpldocs.info/arsd.minigui.html) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components. It's part of the [arsd libraries](https://github.com/adamdruppe/arsd/blob/master/minigui.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29.
 * [GtkD](https://github.com/gtkd-developers/GtkD) ⭐ 327 | 🐛 56 | 🌐 D | 📅 2025-11-01 - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 * [tkD](https://github.com/nomad-software/tkd) ⭐ 118 | 🐛 6 | 🌐 D | 📅 2021-10-15 - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml](https://github.com/filcuc/dqml) ⭐ 42 | 🐛 3 | 🌐 D | 📅 2022-10-12 - Qt Qml bindings for the D programming language.
 * [giD](https://github.com/Kymorphia/gid) ⭐ 38 | 🐛 3 | 🌐 D | 📅 2026-05-27 - GObject Introspection D Package Repository.
 * [Sciter-Dport](https://github.com/sciter-sdk/Sciter-Dport) ⭐ 33 | 🐛 0 | 🌐 D | 📅 2017-06-12 - D bindings for the [Sciter](https://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [microui-d](https://github.com/Kapendev/microui-d) ⭐ 13 | 🐛 0 | 🌐 D | 📅 2026-03-20 - A tiny immediate-mode UI library.
+* [microui-d](https://github.com/Kapendev/microui-d) ⭐ 14 | 🐛 0 | 🌐 D | 📅 2026-03-20 - A tiny immediate-mode UI library.
 * [Fluid](https://git.samerion.com/Samerion/Fluid) - A declarative cross-platform user interface library for D.
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](https://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
 ## GUI Applications
 
-* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,688 | 🐛 449 | 🌐 D | 📅 2026-03-25 - A tiling terminal emulator for Linux using GTK+ 3.
+* [tilix](https://github.com/gnunn1/tilix) ⭐ 5,687 | 🐛 449 | 🌐 D | 📅 2026-03-25 - A tiling terminal emulator for Linux using GTK+ 3.
 * [Inochi Creator](https://github.com/Inochi2D/inochi-creator) ⭐ 1,145 | 🐛 137 | 🌐 D | 📅 2025-06-16 - Inochi2D Rigging Application.
 * [Inochi Session](https://github.com/Inochi2D/inochi-session) ⭐ 386 | 🐛 25 | 🌐 D | 📅 2025-11-08 - Application that allows streaming with Inochi2D puppets.
 
@@ -411,9 +411,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [DSFML](https://github.com/Jebbs/DSFML) ⭐ 97 | 🐛 49 | 🌐 D | 📅 2019-04-28 - A static binding of SFML in a way that makes sense for D.
 * [raylib-d](https://github.com/schveiguy/raylib-d) ⭐ 90 | 🐛 10 | 🌐 D | 📅 2026-04-27 - D bindings for raylib.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5) ⭐ 45 | 🐛 6 | 🌐 D | 📅 2024-10-31 - D binding/wrapper to Allegro 5, a modern game programming library.
-* [sokol-d](https://github.com/floooh/sokol-d) ⭐ 27 | 🐛 2 | 🌐 C | 📅 2026-05-28 - D bindings for the sokol headers.
+* [sokol-d](https://github.com/floooh/sokol-d) ⭐ 27 | 🐛 2 | 🌐 C | 📅 2026-05-29 - D bindings for the sokol headers.
 * [BindBC](https://github.com/BindBC) - Bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader) ⭐ 27 | 🐛 0 | 🌐 D | 📅 2025-01-28.
-  * [SDL 2](https://github.com/BindBC/bindbc-sdl) ⭐ 129 | 🐛 1 | 🌐 D | 📅 2026-04-18 - Multimedia library
+  * [SDL 2](https://github.com/BindBC/bindbc-sdl) ⭐ 129 | 🐛 3 | 🌐 D | 📅 2026-04-18 - Multimedia library
   * [Nuklear](https://github.com/Timu5/bindbc-nuklear) ⭐ 46 | 🐛 1 | 🌐 D | 📅 2023-09-22 - Immediate mode GUI
   * [OpenGL](https://github.com/BindBC/bindbc-opengl) ⭐ 42 | 🐛 0 | 🌐 D | 📅 2024-10-19 - Graphics API
   * [GLFW 3](https://github.com/BindBC/bindbc-glfw) ⭐ 42 | 🐛 0 | 🌐 D | 📅 2026-01-02 - Window/Input library
@@ -460,7 +460,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) ⭐ 139 | 🐛 4 | 🌐 D | 📅 2026-05-22 - Cross Platform D-Lang Game Engine with scripting support.
 * [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) ⚠️ Archived - 2D graphics engine written in D.
-* [Parin](https://github.com/Kapendev/parin) ⭐ 72 | 🐛 1 | 🌐 D | 📅 2026-05-28 - A delightfully simple 2D game engine.
+* [Parin](https://github.com/Kapendev/parin) ⭐ 71 | 🐛 1 | 🌐 D | 📅 2026-05-28 - A delightfully simple 2D game engine.
 * [gfm](https://github.com/drug007/gfm7) ⭐ 4 | 🐛 0 | 🌐 D | 📅 2024-07-27 - D gamedev toolkit.
 
 *Libraries for 2D/3D-related projects.*
@@ -491,7 +491,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Image Processing
 
-* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28, [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28, [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-28 - basic color struct, HSL functions and reading and writing image files
+* [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29, [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29, [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) ⭐ 551 | 🐛 54 | 🌐 D | 📅 2026-05-29 - basic color struct, HSL functions and reading and writing image files
 * [dlib.image](https://github.com/gecko0307/dlib) ⭐ 224 | 🐛 4 | 🌐 D | 📅 2026-04-20 - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) ⭐ 177 | 🐛 13 | 🌐 D | 📅 2026-05-28 - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/).
 * [opencvd](https://github.com/aferust/opencvd) ⭐ 23 | 🐛 1 | 🌐 D | 📅 2021-09-06 - Unofficial OpenCV binding for D
@@ -568,14 +568,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [Hunt Framework](https://github.com/huntlabs/hunt-framework/) ⭐ 300 | 🐛 22 | 🌐 D | 📅 2024-03-11 - Hunt is a high-level D Programming Language Web framework that encourages rapid development and clean, pragmatic design. It lets you build high-performance Web applications quickly and easily.
 * [DWT](https://github.com/d-widget-toolkit/dwt) ⭐ 139 | 🐛 13 | 🌐 D | 📅 2026-05-02 - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-* [hunt](https://github.com/huntlabs/hunt) ⭐ 98 | 🐛 15 | 🌐 D | 📅 2024-01-17 - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
+* [hunt](https://github.com/huntlabs/hunt) ⭐ 97 | 🐛 15 | 🌐 D | 📅 2024-01-17 - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 * [dunit](https://github.com/nomad-software/dunit) ⚠️ Archived - Advanced unit testing & mocking toolkit
 * [collie](https://github.com/huntlabs/collie) ⭐ 60 | 🐛 3 | 🌐 D | 📅 2018-09-12 - An asynchronous event-driven network framework written in dlang, like netty framework in D.
 * [hunt-entity](https://github.com/huntlabs/hunt-entity) ⭐ 58 | 🐛 7 | 🌐 D | 📅 2022-07-22 - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
 * [hunt-database](https://github.com/huntlabs/hunt-database) ⭐ 49 | 🐛 21 | 🌐 D | 📅 2023-11-15 - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 * [grpc](https://github.com/huntlabs/grpc-dlang) ⭐ 44 | 🐛 11 | 🌐 D | 📅 2022-03-12 - Grpc for D programming language, hunt-http library based.
 * [kissrpc](https://github.com/huntlabs/kissrpc) ⭐ 41 | 🐛 0 | 🌐 D | 📅 2018-03-22 - Fast and light, flatbuffers based rpc framework.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) ⭐ 33 | 🐛 4 | 🌐 D | 📅 2021-05-28 - Dynamic Binding for [libui](https://github.com/andlabs/libui) ⭐ 10,882 | 🐛 249 | 🌐 C | 📅 2024-05-29
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) ⭐ 33 | 🐛 4 | 🌐 D | 📅 2021-05-28 - Dynamic Binding for [libui](https://github.com/andlabs/libui) ⭐ 10,883 | 🐛 249 | 🌐 C | 📅 2024-05-29
 * [hunt-http](https://github.com/huntlabs/hunt-http) ⭐ 31 | 🐛 4 | 🌐 D | 📅 2022-05-17 - HTTP/1 and HTTP/2 protocol library for D.
 * [hunt-net](https://github.com/huntlabs/hunt-net) ⭐ 20 | 🐛 3 | 🌐 D | 📅 2022-02-21 - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
 * [flatbuffers](https://github.com/huntlabs/flatbuffers) ⭐ 10 | 🐛 1 | 🌐 D | 📅 2017-07-21 - D Programming Language implementation of the google flatbuffers library.
