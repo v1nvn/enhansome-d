@@ -159,7 +159,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-30T03:20:33Z",
+            "last_commit": "2026-05-31T03:46:03Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3276
@@ -175,7 +175,7 @@
             "last_commit": "2026-05-24T08:04:22Z",
             "owner": "ldc-developers",
             "repo": "ldc",
-            "stars": 1334
+            "stars": 1336
           }
         },
         {
@@ -217,7 +217,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2025-10-09T06:25:40Z",
+            "last_commit": "2026-05-30T13:54:25Z",
             "owner": "dlang-community",
             "repo": "dfmt",
             "stars": 214
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-29T00:06:20Z",
+            "last_commit": "2026-05-31T00:40:43Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 26
@@ -885,7 +885,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-04-08T16:37:43Z",
+            "last_commit": "2026-05-30T11:59:08Z",
             "owner": "vibe-d",
             "repo": "vibe.d",
             "stars": 1204
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-30T04:11:02Z",
+            "last_commit": "2026-05-30T20:51:58Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12475
+            "stars": 12478
           }
         },
         {
@@ -1452,7 +1452,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "D",
-                "last_commit": "2026-04-18T19:23:59Z",
+                "last_commit": "2026-05-30T13:37:41Z",
                 "owner": "BindBC",
                 "repo": "bindbc-sdl",
                 "stars": 129
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-30T05:40:49.474Z",
+    "last_updated": "2026-05-31T06:08:43.518Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
