@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-31T07:56:42Z",
+            "last_commit": "2026-06-01T21:44:08Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3277
+            "stars": 3278
           }
         },
         {
@@ -763,7 +763,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-01T02:32:56Z",
+            "last_commit": "2026-06-02T03:15:14Z",
             "owner": "Kapendev",
             "repo": "joka",
             "stars": 26
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-30T20:51:58Z",
+            "last_commit": "2026-06-01T21:13:52Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12481
+            "stars": 12483
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5686
+            "stars": 5687
           }
         },
         {
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-05-29T15:51:07Z",
+            "last_commit": "2026-06-01T09:50:18Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 27
@@ -1452,7 +1452,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "D",
-                "last_commit": "2026-05-30T13:37:41Z",
+                "last_commit": "2026-06-01T13:09:29Z",
                 "owner": "BindBC",
                 "repo": "bindbc-sdl",
                 "stars": 129
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-01T06:45:22.601Z",
+    "last_updated": "2026-06-02T06:27:18.639Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
