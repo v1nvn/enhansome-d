@@ -159,7 +159,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-05T23:44:09Z",
+            "last_commit": "2026-06-07T22:32:25Z",
             "owner": "dlang",
             "repo": "dmd",
             "stars": 3281
@@ -423,7 +423,7 @@
             "last_commit": "2026-05-02T21:44:10Z",
             "owner": "Pure-D",
             "repo": "serve-d",
-            "stars": 260
+            "stars": 261
           }
         }
       ],
@@ -750,7 +750,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-07T03:17:47Z",
+            "last_commit": "2026-06-07T08:37:41Z",
             "owner": "Inochi2D",
             "repo": "nulib",
             "stars": 10
@@ -763,10 +763,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-06T20:01:22Z",
+            "last_commit": "2026-06-07T09:50:36Z",
             "owner": "Kapendev",
             "repo": "joka",
-            "stars": 26
+            "stars": 25
           }
         }
       ],
@@ -888,7 +888,7 @@
             "last_commit": "2026-05-30T11:59:08Z",
             "owner": "vibe-d",
             "repo": "vibe.d",
-            "stars": 1206
+            "stars": 1207
           }
         },
         {
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-06T00:49:43Z",
+            "last_commit": "2026-06-08T04:45:14Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12505
+            "stars": 12509
           }
         },
         {
@@ -1199,10 +1199,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-04T21:18:12Z",
+            "last_commit": "2026-06-08T05:30:09Z",
             "owner": "Kymorphia",
             "repo": "gid",
-            "stars": 38
+            "stars": 37
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1151
+            "stars": 1152
           }
         },
         {
@@ -1903,7 +1903,7 @@
             "last_commit": "2026-01-06T13:49:11Z",
             "owner": "AuburnSounds",
             "repo": "godot-math",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-07T06:14:00.733Z",
+    "last_updated": "2026-06-08T06:27:58.825Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
