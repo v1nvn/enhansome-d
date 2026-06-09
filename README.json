@@ -162,7 +162,7 @@
             "last_commit": "2026-06-07T22:32:25Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3281
+            "stars": 3282
           }
         },
         {
@@ -270,7 +270,7 @@
             "last_commit": "2026-05-19T07:53:05Z",
             "owner": "atilaneves",
             "repo": "reggae",
-            "stars": 187
+            "stars": 188
           }
         },
         {
@@ -750,7 +750,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-07T08:37:41Z",
+            "last_commit": "2026-06-08T11:06:09Z",
             "owner": "Inochi2D",
             "repo": "nulib",
             "stars": 10
@@ -1131,7 +1131,7 @@
             "last_commit": "2022-07-10T23:55:32Z",
             "owner": "zyedidia",
             "repo": "Literate",
-            "stars": 904
+            "stars": 905
           }
         },
         {
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-08T04:45:14Z",
+            "last_commit": "2026-06-08T21:22:07Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12509
+            "stars": 12511
           }
         },
         {
@@ -1180,7 +1180,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-28T16:37:02Z",
+            "last_commit": "2026-06-08T19:04:18Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 42
@@ -1199,7 +1199,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-08T05:30:09Z",
+            "last_commit": "2026-06-08T19:56:26Z",
             "owner": "Kymorphia",
             "repo": "gid",
             "stars": 37
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5683
+            "stars": 5684
           }
         },
         {
@@ -1330,7 +1330,7 @@
             "last_commit": "2025-06-16T20:39:43Z",
             "owner": "Inochi2D",
             "repo": "inochi-creator",
-            "stars": 1152
+            "stars": 1154
           }
         },
         {
@@ -1372,7 +1372,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-06-05T18:44:25Z",
+            "last_commit": "2026-06-08T09:35:57Z",
             "owner": "floooh",
             "repo": "sokol-d",
             "stars": 27
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-08T06:27:58.825Z",
+    "last_updated": "2026-06-09T06:00:30.354Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
