@@ -159,10 +159,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-07T22:32:25Z",
+            "last_commit": "2026-06-10T05:43:55Z",
             "owner": "dlang",
             "repo": "dmd",
-            "stars": 3282
+            "stars": 3283
           }
         },
         {
@@ -172,7 +172,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-24T08:04:22Z",
+            "last_commit": "2026-06-09T14:20:16Z",
             "owner": "ldc-developers",
             "repo": "ldc",
             "stars": 1341
@@ -220,7 +220,7 @@
             "last_commit": "2026-05-30T13:54:25Z",
             "owner": "dlang-community",
             "repo": "dfmt",
-            "stars": 214
+            "stars": 215
           }
         }
       ],
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-05-19T07:53:05Z",
+            "last_commit": "2026-06-10T05:29:59Z",
             "owner": "atilaneves",
             "repo": "reggae",
             "stars": 188
@@ -1141,10 +1141,10 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-08T21:22:07Z",
+            "last_commit": "2026-06-09T22:26:29Z",
             "owner": "abraunegg",
             "repo": "onedrive",
-            "stars": 12511
+            "stars": 12517
           }
         },
         {
@@ -1180,7 +1180,7 @@
           "repo_info": {
             "archived": false,
             "language": "D",
-            "last_commit": "2026-06-08T19:04:18Z",
+            "last_commit": "2026-06-09T22:00:00Z",
             "owner": "soulfind-dev",
             "repo": "soulfind",
             "stars": 42
@@ -1317,7 +1317,7 @@
             "last_commit": "2026-03-25T12:10:00Z",
             "owner": "gnunn1",
             "repo": "tilix",
-            "stars": 5684
+            "stars": 5683
           }
         },
         {
@@ -2633,7 +2633,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-09T06:00:30.354Z",
+    "last_updated": "2026-06-10T06:13:51.652Z",
     "original_repository": "dlang-community/awesome-d",
     "source_repository": "v1nvn/enhansome-d",
     "source_repository_description": null,
